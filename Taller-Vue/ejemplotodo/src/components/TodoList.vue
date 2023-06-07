@@ -13,7 +13,6 @@
 </template>
 
 <script>
-
 let nextTodoId = 1;
 export default {
     name: "TodoList",
